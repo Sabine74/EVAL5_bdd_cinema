@@ -355,4 +355,3 @@ FLUSH PRIVILEGES;
 --////////A FAIRE/////////
 --GitHub => 
 --Sauvegarde de la Base de données
---mysqldump -u root - h localhost:...-p root>create.sql
