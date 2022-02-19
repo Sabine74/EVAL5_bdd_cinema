@@ -352,6 +352,6 @@ CREATE USER 'user'@'%' IDENTIFIED BY 'Motdepasse321*';
 GRANT SELECT ON bdd_cinema.* TO 'user'@'%';
 FLUSH PRIVILEGES;
 
---////////A FAIRE/////////
---GitHub => 
 --Sauvegarde de la Base de données
+--GitHub => https://github.com/Sabine74/EVAL5_bdd_cinema
+
